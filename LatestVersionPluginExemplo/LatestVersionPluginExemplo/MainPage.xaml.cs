@@ -27,7 +27,7 @@ namespace LatestVersionPluginExemplo
                     if (update)
                     {
                         //Abre a Loja nativa da plataforma para efetur o Download
-                        await CrossLatestVersion.Current.OpenAppInStore("NSCalendar");
+                        await CrossLatestVersion.Current.OpenAppInStore("NOME DO SEU APP");
                     }
                 }
             };
