@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:LatestVersionPluginExemplo"
-             x:Class="LatestVersionPluginExemplo.MainPage" Padding="0,20,0,0">
+             x:Class="LatestVersionPluginExemplo.MainPage" Padding="0,60,0,0">
 
     <StackLayout>
         <Label Text="Verifica versão mais atual" ></Label>
-        <Button x:Name="btnVersao"> Verificar</Button>
+        <Button x:Name="btnVersao" Text="Verificar"></Button>
 
     </StackLayout>
 	

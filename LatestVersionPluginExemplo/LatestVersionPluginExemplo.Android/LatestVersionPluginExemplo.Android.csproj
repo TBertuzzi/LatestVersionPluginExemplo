@@ -84,7 +84,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LatestVersionPluginExemplo\LatestVersionPluginExemplo.csproj">
-      <Project>{BE1FCD36-181F-4CA7-AD50-508E94045D5B}</Project>
+      <Project>{03024F38-1DCD-4075-9876-88EBC61CB653}</Project>
       <Name>LatestVersionPluginExemplo</Name>
     </ProjectReference>
   </ItemGroup>
